@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Admin-LTE-Demo/static/css/main.afd7172b.chunk.css",
+    "main.js": "/Admin-LTE-Demo/static/js/main.4edff4db.chunk.js",
+    "main.js.map": "/Admin-LTE-Demo/static/js/main.4edff4db.chunk.js.map",
+    "runtime-main.js": "/Admin-LTE-Demo/static/js/runtime-main.da3375a0.js",
+    "runtime-main.js.map": "/Admin-LTE-Demo/static/js/runtime-main.da3375a0.js.map",
+    "static/js/2.67e511b0.chunk.js": "/Admin-LTE-Demo/static/js/2.67e511b0.chunk.js",
+    "static/js/2.67e511b0.chunk.js.map": "/Admin-LTE-Demo/static/js/2.67e511b0.chunk.js.map",
+    "static/js/3.7c302b25.chunk.js": "/Admin-LTE-Demo/static/js/3.7c302b25.chunk.js",
+    "static/js/3.7c302b25.chunk.js.map": "/Admin-LTE-Demo/static/js/3.7c302b25.chunk.js.map",
+    "index.html": "/Admin-LTE-Demo/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/Admin-LTE-Demo/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.67e511b0.chunk.js.LICENSE.txt": "/Admin-LTE-Demo/static/js/2.67e511b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da3375a0.js",
+    "static/js/2.67e511b0.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.4edff4db.chunk.js"
+  ]
+}
